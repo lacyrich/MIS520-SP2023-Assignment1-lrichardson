@@ -7,4 +7,8 @@
     <RootNamespace>SP2023_Assignment1_lrichardson</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\Resource.resx" />
+  </ItemGroup>
+
 </Project>
